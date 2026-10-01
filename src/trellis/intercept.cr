@@ -1,5 +1,3 @@
 # src/trellis/intercept.cr
-module Trellis
-  abstract class Intercept
-  end
+abstract class Trellis::Intercept
 end
